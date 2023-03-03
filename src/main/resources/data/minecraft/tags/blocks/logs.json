@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+
+    "testingmod:azura_log",
+    "testingmod:azura_wood",
+    "testingmod:stripped_azura_log",
+    "testingmod:stripped_azura_wood",
+
+    "testingmod:rainbow_eucalyptus_log",
+    "testingmod:rainbow_eucalyptus_wood",
+    "testingmod:stripped_rainbow_eucalyptus_log",
+    "testingmod:stripped_rainbow_eucalyptus_wood"
+
+  ]
+}

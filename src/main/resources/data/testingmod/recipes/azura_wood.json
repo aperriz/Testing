@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "building",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "testingmod:azura_log"
+    }
+  },
+  "result": {
+    "item": "testingmod:azura_wood",
+    "count": 4
+  }
+}

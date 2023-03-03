@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "building",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "testingmod:rainbow_eucalyptus_planks"
+    }
+  },
+  "result": {
+    "item": "testingmod:rainbow_eucalyptus_trapdoor",
+    "count": 2
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "testingmod:block/azura_sapling"
+  },
+  "render_type": "cutout"
+}

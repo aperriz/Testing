@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "testingmod:block/stripped_azura_log",
+    "side": "testingmod:block/stripped_azura_log"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "testingmod:block/stripped_rainbow_eucalyptus_log_top",
+    "side": "testingmod:block/stripped_rainbow_eucalyptus_log"
+  }
+}

@@ -1,0 +1,67 @@
+{
+
+  "item.testingmod.test": "Bingus",
+
+  "item.testingmod.ross": "Ross",
+
+  "item.testingmod.sapphire": "Sapphire",
+  "block.testingmod.sapphire_block": "Sapphire Block",
+  "block.testingmod.sapphire_ore": "Sapphire Ore",
+  "block.testingmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+
+  "item.testingmod.sapphire_chestplate": "Sapphire Chestplate",
+  "item.testingmod.sapphire_helmet": "Sapphire Helmet",
+  "item.testingmod.sapphire_leggings": "Sapphire Leggings",
+  "item.testingmod.sapphire_boots": "Sapphire Boots",
+
+  "item.testingmod.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.testingmod.sapphire_axe": "Sapphire Axe",
+  "item.testingmod.sapphire_shovel": "Sapphire Shovel",
+  "item.testingmod.sapphire_hoe": "Sapphire Hoe",
+  "item.testingmod.sapphire_sword": "Sapphire Sword",
+
+  "item.testingmod.ruby": "Ruby",
+  "block.testingmod.ruby_block": "Ruby Block",
+  "block.testingmod.ruby_ore": "Ruby Ore",
+  "block.testingmod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+
+  "item.testingmod.ruby_chestplate": "Ruby Chestplate",
+  "item.testingmod.ruby_helmet": "Ruby Helmet",
+  "item.testingmod.ruby_leggings": "Ruby Leggings",
+  "item.testingmod.ruby_boots": "Ruby Boots",
+
+  "item.testingmod.ruby_pickaxe": "Ruby Pickaxe",
+  "item.testingmod.ruby_axe": "Ruby Axe",
+  "item.testingmod.ruby_shovel": "Ruby Shovel",
+  "item.testingmod.ruby_hoe": "Ruby Hoe",
+  "item.testingmod.ruby_sword": "Ruby Sword",
+
+  "creativemodetab.testing_tab" : "Testing",
+
+  "block.testingmod.azura_leaves": "Azura Leaves",
+  "block.testingmod.azura_log": "Azura Log",
+  "block.testingmod.stripped_azura_log": "Stripped Azura Log",
+  "block.testingmod.azura_wood": "Azura Wood",
+  "block.testingmod.stripped_azura_wood": "Stripped Azura Wood",
+  "block.testingmod.azura_sapling": "Azura Sapling",
+  "block.testingmod.azura_planks": "Azura Planks",
+  "block.testingmod.azura_slab": "Azura Slab",
+  "block.testingmod.azura_door": "Azura Door",
+  "block.testingmod.azura_trapdoor": "Azura Trapdoor",
+
+  "block.testingmod.rainbow_eucalyptus_leaves": "Rainbow Eucalyptus Leaves",
+  "block.testingmod.rainbow_eucalyptus_log": "Rainbow Eucalyptus Log",
+  "block.testingmod.stripped_rainbow_eucalyptus_log": "Stripped Rainbow Eucalyptus Log",
+  "block.testingmod.rainbow_eucalyptus_wood": "Rainbow Eucalyptus Wood",
+  "block.testingmod.stripped_rainbow_eucalyptus_wood": "Stripped Rainbow Eucalyptus Wood",
+  "block.testingmod.rainbow_eucalyptus_sapling": "Rainbow Eucalyptus Sapling",
+  "block.testingmod.rainbow_eucalyptus_planks": "Rainbow Eucalyptus Planks",
+  "block.testingmod.rainbow_eucalyptus_slab": "Rainbow Eucalyptus Slab",
+  "block.testingmod.rainbow_eucalyptus_door": "Rainbow Eucalyptus Door",
+  "block.testingmod.rainbow_eucalyptus_trapdoor": "Rainbow Eucalyptus Trapdoor",
+
+  "entity.testingmod.moose": "Moose",
+  "item.testingmod.moose_spawn_egg": "Moose Spawn Egg",
+  "item.testingmod.raw_venison": "Raw Venison",
+  "item.testingmod.cooked_venison": "Venison"
+}

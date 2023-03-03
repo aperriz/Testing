@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": ["testingmod:sapphire_ore_mine_small", "testingmod:ruby_ore_mine_small"],
+  "step": "underground_ores"
+}

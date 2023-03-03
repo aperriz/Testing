@@ -1,0 +1,13 @@
+{
+
+  "replace": false,
+  "values":[
+    "testingmod:sapphire_ore",
+    "testingmod:ruby_ore",
+    "testingmod:sapphire_block",
+    "testingmod:ruby_block",
+    "testingmod:deepslate_sapphire_ore",
+    "testingmod:deepslate_ruby_ore"
+
+  ]
+}

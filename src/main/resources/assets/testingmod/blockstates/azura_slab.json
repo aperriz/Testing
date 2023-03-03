@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "testingmod:block/azura_slab"
+    },
+    "type=double": {
+      "model": "testingmod:block/azura_planks"
+    },
+    "type=top": {
+      "model": "testingmod:block/azura_slab_top"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "testingmod:block/rainbow_eucalyptus_planks",
+    "side": "testingmod:block/rainbow_eucalyptus_planks",
+    "top": "testingmod:block/rainbow_eucalyptus_planks"
+  }
+}

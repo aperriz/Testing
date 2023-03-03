@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_left_open",
+  "textures": {
+    "bottom": "testingmod:block/azura_door_bottom",
+    "top": "testingmod:block/azura_door_top"
+  }
+}

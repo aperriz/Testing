@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "testingmod:rainbow_eucalyptus_log",
+    "testingmod:rainbow_eucalyptus_wood",
+    "testingmod:stripped_rainbow_eucalyptus_log",
+    "testingmod:stripped_rainbow_eucalyptus_wood"
+  ]
+}

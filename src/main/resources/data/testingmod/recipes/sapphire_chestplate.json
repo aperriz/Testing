@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sapphire",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "testingmod:sapphire"
+    }
+  },
+  "result": {
+    "item": "testingmod:sapphire_chestplate"
+  }
+}
