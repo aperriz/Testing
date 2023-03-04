@@ -17,7 +17,7 @@ public class MooseRenderer extends GeoEntityRenderer<MooseEntity> {
     public MooseRenderer(EntityRendererProvider.Context context) {
         super(context, new MooseModel());
         this.shadowRadius = 1F;
-        this.scaleHeight = 3F;
+        this.scaleHeight = 2F;
         this.scaleWidth = 2F;
     }
 

@@ -7,6 +7,7 @@ import com.aperriz.testing.events.ModEvents;
 import com.aperriz.testing.item.ModCreativeModeTab;
 import com.aperriz.testing.item.ModItems;
 import com.aperriz.testing.renderer.entity.MooseRenderer;
+import com.aperriz.testing.world.dimension.ModDimensions;
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.renderer.entity.EntityRenderers;
 import net.minecraft.world.entity.EntityType;
@@ -50,6 +51,8 @@ public class testing
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+
+        ModDimensions.register();
 
         GeckoLib.initialize();
 

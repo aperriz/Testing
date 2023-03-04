@@ -97,6 +97,8 @@ public class MooseEntity<T extends EntityType> extends Animal implements GeoEnti
             this.updatePersistentAnger((ServerLevel)this.level, true);
         }
 
+        this.updateSwingTime();
+
     }
 
     public boolean canAttackType(EntityType<?> p_28851_) {
@@ -195,10 +197,13 @@ public class MooseEntity<T extends EntityType> extends Animal implements GeoEnti
                 .add(Attributes.KNOCKBACK_RESISTANCE, 0.25D).build();
     }
 
+
     @Override
     public void registerControllers(AnimatableManager.ControllerRegistrar controllers) {
         controllers.add(DefaultAnimations.genericWalkIdleController(this));
         controllers.add(DefaultAnimations.genericAttackAnimation(this, DefaultAnimations.ATTACK_STRIKE));
+
+
 
 
     }
